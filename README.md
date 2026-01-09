@@ -1,6 +1,6 @@
 # Java Basics
 
-This repository contains basic java program for practice.
+This repository contains basic Java program for practice.
 
 ## Programs
 -Hello World
