@@ -14,4 +14,5 @@ This repository contains basic Java program for practice.
 -ForLoopExample
 -OddNumbers
 -OddNumbersDoWhile
+-FactorialNumberWhile
 
