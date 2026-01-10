@@ -8,3 +8,10 @@ This repository contains basic Java program for practice.
 -If Else
 -Scanner Examples
 -Print numbers from 1 to 10 using for loop
+-EvenNumbers
+-EvenNumbersUsingScanner
+-EvenNumbersWhile
+-ForLoopExample
+-OddNumbers
+-OddNumbersDoWhile
+
